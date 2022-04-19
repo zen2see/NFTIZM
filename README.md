@@ -1,0 +1,2 @@
+# DA0xIZM
+This app was created for a hackathon and general exercise in some of the popular web technologies in use today. It is split into a mobile side and a web/web3 stack. Expo and react-native was used for the mobile end, react and typescript were used for the web portion. NTFS and Unstoppable domains were used for web3. Pleasse note there is an experimental directory that uses next.js but the finished portion will no be available on github. Special thanks goes to JavaScript Mastery from which this was based --> https://twitter.com/jsmasterypro
